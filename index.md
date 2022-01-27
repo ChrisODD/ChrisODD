@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-You can use the [editor on GitHub](https://github.com/ChrisODD/ChrisODD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+   <!--    
+    Author: Chrstopher Swiger
+     Date:1/25/2022
+     Filename: code1-4.html
+   -->
+   <meta charset="utf-8">
+   <title>Coding Challenge 1-4</title>
+   <link href="code1-4styles.css" rel="stylesheet"/>
+</head>
+<body>
+   <h1>The Teton Crest Trail</h1>
+    <img src="code1-4_image.png" alt="" />
+    
+   <p>The Teton Crest Trail is an awe-inspiring 40-mile hike along the Grand Teton 
+      range in western Wyoming. The trail extends from Phillips Pass on the border 
+      of the Bridger Teton National Forest and proceeds north to String Lake
+      in Grand Teton National Park.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   <p>You can access the Teton Crest Trail from the Granite Canyon Trail or from
+      the aerial tramway in Jackson Hole, which provides a gradual ascent to the
+      Teton range. There are several access trails adjacent from national forest
+      lands of varying degrees of difficulty.</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrisODD/ChrisODD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   <p>Along the trail, enjoy an exciting traverse of the Death Canyon Shelf with a        difficult climb over Mount Meek Pass, Hurricane Pass, and the Paintbrush            Divide. This is a challenging 3- to 4-day trip, so you must pack sufficient         supplies and a water purifier. The Teton Crest Trail goes through grizzly           bear country, so bear spray is a must.</p>
