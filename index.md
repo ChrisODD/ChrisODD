@@ -1,28 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-
-   <!--    
-    Author: Chrstopher Swiger
-     Date:1/25/2022
-     Filename: code1-4.html
-   -->
-   <meta charset="utf-8">
-   <title>Coding Challenge 1-4</title>
-   <link href="code1-4styles.css" rel="stylesheet"/>
-</head>
-<body>
-   <h1>The Teton Crest Trail</h1>
-    <img src="code1-4_image.png" alt="" />
-    
-   <p>The Teton Crest Trail is an awe-inspiring 40-mile hike along the Grand Teton 
-      range in western Wyoming. The trail extends from Phillips Pass on the border 
-      of the Bridger Teton National Forest and proceeds north to String Lake
-      in Grand Teton National Park.</p>
-
-   <p>You can access the Teton Crest Trail from the Granite Canyon Trail or from
-      the aerial tramway in Jackson Hole, which provides a gradual ascent to the
-      Teton range. There are several access trails adjacent from national forest
-      lands of varying degrees of difficulty.</p>
-
-   <p>Along the trail, enjoy an exciting traverse of the Death Canyon Shelf with a        difficult climb over Mount Meek Pass, Hurricane Pass, and the Paintbrush            Divide. This is a challenging 3- to 4-day trip, so you must pack sufficient         supplies and a water purifier. The Teton Crest Trail goes through grizzly           bear country, so bear spray is a must.</p>
+<html>
+	<head>
+		<title>My First Website in CIST 1510!</title>
+	</head>
+	<body>
+		
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>My First Website in CIST 1510</h1>
+				<p>Hi there, I'm Christopher Swiger. I live in the state of Georgia. We moved to the state right before the pandemic happened and it wasn't a good start for being in the United States for the first time in a while. I came from a military family from Germany and I spent most of my school years there while I spent the rest in Georgia.</p>
+			<p>Since I've had experience with coding in the past, I am assuming python to be at least mentioned. The last time I used python was when I was modifying the coding of a file from a game. As for github, I've never used it for coding but I do go in those websites that includes github in the url to download a file I would need for a specific application to work. I am hoping to learn more about how website coding in github works. </p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
